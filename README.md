@@ -71,7 +71,7 @@ El dashboard incluye:
 ---
 # 📦 Optimización de Ventas e Inventario en Retail
 
-![Dashboard de ventas retail](images/Grafica.retail.png)
+![Dashboard de ventas retail](images/dashboard_powerbi.png)
 
 
 ## 📌 Autor
