@@ -69,6 +69,10 @@ El dashboard incluye:
 - Optimizar stock en categorías con bajo rendimiento
 
 ---
+# 📦 Optimización de Ventas e Inventario en Retail
+
+![Dashboard de ventas retail](images/Grafica.retail)
+
 
 ## 📌 Autor
 **Sergy Ferreira**  
